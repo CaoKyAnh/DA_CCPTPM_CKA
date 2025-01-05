@@ -32,9 +32,4 @@
 - Android Studio hoặc VS Code với Flutter Plugin
 - Kết nối mạng ổn định
 
-### Hướng Dẫn Cài Đặt
 
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/username/DA_CCPTPM_CKA.git
-   cd DA_CCPTPM_CKA
